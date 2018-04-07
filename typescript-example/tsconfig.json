@@ -1,0 +1,13 @@
+{
+  "compileOnSave": true,
+  "compilerOptions": {
+    "sourceMap": true,
+    "module": "amd",
+    "target": "es5"
+  },
+  "files": [
+    "main.ts",
+    "chatroom.ts",
+    "messajes.interface.ts"
+  ]
+}
